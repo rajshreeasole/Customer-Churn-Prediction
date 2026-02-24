@@ -39,3 +39,8 @@ Churn: Target label (1 = Left, 0 = Stayed)
 2. Run in terminal or command prompt:
 ```bash
 python customer_churn.py
+
+
+#Screenshort
+![Alt text describing image](confusion_matrix.png)
+![Alt text describing image](feature_matrix.png)
